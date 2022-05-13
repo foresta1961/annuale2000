@@ -1,0 +1,36 @@
+@media (max-width: 768px) {
+  * {
+    margin: 0;
+    padding: 10;
+  }
+  .Intro {
+    width: 450px;
+    height: 740px;
+    background-color: aquamarine;
+    padding-top: 10pt;
+  }
+  .intro {
+    font-size: 60px;
+    text-shadow: -1px 0 black, 0 1px black, 3px 0 black, 0 1px black;
+    color: blue;
+  }
+  .lista {
+    text-align: left;
+    padding-left: 170px;
+    list-style-type: none;
+    font-size: 25px;
+    color: red;
+  }
+  .febbraio {
+    width: 450px;
+    height: 740px;
+    background-color: red;
+  }
+  .bottoneI {
+    margin-bottom: 90px;
+    background-color: blue;
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: aliceblue;
+  }
+}
