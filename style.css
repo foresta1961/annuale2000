@@ -1,6 +1,7 @@
 * {
   margin: 0;
-  padding: 0;
+  padding-left: 0;
+  padding-right: 0;
 }
 .Intro {
   width: 450px;
