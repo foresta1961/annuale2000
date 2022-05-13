@@ -1,7 +1,15 @@
 * {
   margin: 0;
-  padding-left: 0;
-  padding-right: 0;
+  padding 0;
+ 
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+.cambio {
+  text-shadow: -1px 0 #ff0000, 0 1px #ff0000, 1px 0 #ff0000, 0 -1px #ff0000;
+  color: black;
 }
 .Intro {
   width: 450px;
@@ -21,11 +29,6 @@
   font-size: 25px;
   color: red;
 }
-.febbraio {
-  width: 450px;
-  height: 740px;
-  background-color: red;
-}
 .bottoneI {
   margin-bottom: 90px;
   background-color: blue;
@@ -33,3 +36,78 @@
   border-radius: 10px;
   color: aliceblue;
 }
+table {
+  text-shadow: -1px 0 #ff0000, 0 1px #ff0000, 1px 0 #ff0000, 0 -1px #ff0000;
+  color: black;
+  font-size: x-large;
+  font-family: Arial;
+  table-layout: auto;
+}
+.febbraio {
+  width: 450px;
+  height: 740px;
+  background-image: url("immagini/inverno.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 400pt;
+}
+.febbraio1{
+  font-size: 4em;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(196, 19, 19);
+  text-align: center;
+  padding: 20% 0 0 0;
+  text-transform: uppercase;
+}
+.bottoneF {
+  background-color: green;
+  padding: 5px 10px;
+  border-radius: 10px;
+  color: aliceblue;
+}
+.marzo {
+  width: 450px;
+  height: 740px;
+  background-image: url("immagini/inverno.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 400pt;
+}
+.marzo1{
+  font-size: 4em;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(196, 19, 19);
+  text-align: center;
+  padding: 20% 0 0 0;
+  text-transform: uppercase;
+}
+.bottoneM {
+  background-color: rgb(149, 177, 35);
+  padding: 5px 10px;
+  border-radius: 10px;
+  color: aliceblue;
+}
+.aprile {
+  width: 450px;
+  height: 740px;
+  background-image: url("immagini/inverno.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 400pt;
+}
+.aprile1 {
+  font-size: 4em;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(196, 19, 19);
+  text-align: center;
+  padding: 20% 0 0 0;
+  text-transform: uppercase;
+}
+.bottoneA {
+  background-color: wheat;
+  padding: 5px 10px;
+  border-radius: 10px;
+  color: black;
+}
+
+
