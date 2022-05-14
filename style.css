@@ -1,6 +1,10 @@
 * {
   margin: 0;
 }
+a {
+  color: red;
+  text-decoration: none;
+}
 .intro {
   float: left;
   width: 360px;
@@ -11,7 +15,17 @@
   float: left;
   width: 360px;
   height: 740px;
-  background-color: green;
+  background-image: url("immagini/inverno.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+.Febbraio {
+  padding-top: 50px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 4em;
+  color: red;
 }
 .marzo {
   float: left;
