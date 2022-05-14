@@ -4,14 +4,15 @@ a {
 }
 .Intro {
   width: 450px;
-  height: 600px;
+  height: 650px;
   background-color: aquamarine;
-  padding-top: 10pt;
+  
 }
 .intro {
   font-size: 60px;
   text-shadow: -1px 0 black, 0 1px black, 3px 0 black, 0 1px black;
   color: blue;
+  padding-top: 20pt;
 }
 .lista {
   text-align: left;
