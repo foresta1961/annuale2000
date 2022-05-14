@@ -4,6 +4,8 @@
 }
 body {
   background-size: 400px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 html {
   overflow-x: hidden;
