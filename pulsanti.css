@@ -5,5 +5,24 @@
   border-radius: 10px;
   color: aliceblue;
 }
-  
-  
+.bottoneF {
+  margin-bottom: 90px;
+  background-color: blue;
+  padding: 5px 10px;
+  border-radius: 10px;
+  color: aliceblue;
+}
+.bottoneM {
+  margin-bottom: 90px;
+  background-color: blue;
+  padding: 5px 10px;
+  border-radius: 10px;
+  color: aliceblue;
+}
+.bottoneA {
+  margin-bottom: 90px;
+  background-color:red;
+  padding: 5px 10px;
+  border-radius: 10px;
+  color: aliceblue;
+}

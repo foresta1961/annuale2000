@@ -31,13 +31,19 @@ a {
   float: left;
   width: 360px;
   height: 740px;
-  background-color: yellow;
+  background-image: url("immagini/primavera1.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
 }
 .aprile {
   float: left;
   width: 360px;
   height: 740px;
-  background-color: blue;
+  background-image: url("immagini/aprile2.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
 }
 .maggio {
   float: left;
