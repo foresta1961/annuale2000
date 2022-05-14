@@ -1,22 +1,23 @@
-a{
-    text-decoration: none;
-    color: black;
-  }
+a {
+  text-decoration: none;
+  color: black;
+}
 .Intro {
-    width: 450px;
-    height: 740px;
-    background-color: aquamarine;
-    padding-top: 10pt;
-  }
-  .intro {
-    font-size: 60px;
-    text-shadow: -1px 0 black, 0 1px black, 3px 0 black, 0 1px black;
-    color: blue;
-  }
-  .lista {
-    text-align: left;
-    padding-left: 170px;
-    list-style-type: none;
-    font-size: 25px;
-    color: red;
-  }
+  width: 450px;
+  height: 740px;
+  background-color: aquamarine;
+  padding-top: 10pt;
+  margin: 0 auto;
+}
+.intro {
+  font-size: 60px;
+  text-shadow: -1px 0 black, 0 1px black, 3px 0 black, 0 1px black;
+  color: blue;
+}
+.lista {
+  text-align: left;
+  padding-left: 170px;
+  list-style-type: none;
+  font-size: 25px;
+  color: red;
+}
