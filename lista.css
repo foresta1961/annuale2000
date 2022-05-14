@@ -1,12 +1,17 @@
-p {
+.Intro {
   padding-top: 30px;
   text-align: center;
   font-family: "Times New Roman", Times, serif;
   font-size: 4em;
   color: blue;
+  text-shadow: -1px 0 black, 0 1px black, 5px 0 black, 0 -1px black;
 }
 ul {
   padding-left: 120px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  font-size: 1.2em;
+  font-size: 1.8em;
+}
+a {
+  color: red;
+  text-decoration: none;
 }
