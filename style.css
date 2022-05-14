@@ -1,6 +1,10 @@
 * {
   margin: 0;
-  padding 0;
+  padding 10;
+}
+html {
+  
+  scroll-behavior: smooth;
 }
 .febbraio {
   width: 450px;
