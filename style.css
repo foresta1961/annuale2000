@@ -5,7 +5,7 @@
   float: left;
   width: 360px;
   height: 740px;
-  background-color: wheat;
+  background-color: azure;
 }
 .febbraio {
   float: left;
@@ -14,14 +14,15 @@
   background-image: url("immagini/inverno.jpg");
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: cover; 
+  background-size: cover;
   padding-top: 40px;
   text-align: center;
   font-family: "Times New Roman", Times, serif;
   font-size: 4em;
-  color: black;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: red;
+  text-shadow: -1px 0 black, 0 5px black, 1px 0 black, 0 -1px black;
 }
+
 .marzo {
   float: left;
   width: 360px;
@@ -34,8 +35,8 @@
   text-align: center;
   font-family: "Times New Roman", Times, serif;
   font-size: 4em;
-  color: green;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: cyan;
+  text-shadow: -1px 0 black, 0 4px black, 1px 0 black, 0 -1px black;
 }
 .aprile {
   float: left;
@@ -50,6 +51,21 @@
   font-family: "Times New Roman", Times, serif;
   font-size: 4em;
   color: blue;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  text-shadow: -1px 0 black, 0 4px black, 1px 0 black, 0 -1px black;
 }
-
+.maggio{
+    float: left;
+    width: 360px;
+    height: 700px;
+    background-image: url("immagini/ciliege.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding-top: 40px;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 4em;
+    color: yellow;
+    text-shadow: -1px 0 black, 0 4px black, 1px 0 black, 0 -1px black;
+  }
+}

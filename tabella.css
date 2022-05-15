@@ -1,8 +1,19 @@
-
-  table {
-    text-shadow: -1px 0 #ff0000, 0 1px #ff0000, 1px 0 #ff0000, 0 -1px #ff0000;
-    color: black;
-    font-size: x-large;
-    font-family: Arial;
-    table-layout: auto;
-  }
+table {
+  text-shadow: -1px 0 #ff0000, 0 1px #ff0000, 1px 0 #ff0000, 0 -1px #ff0000;
+  color: black;
+  font-size: x-large;
+  font-family: Arial;
+  table-layout: auto;
+}
+.cambioM {
+  text-shadow: -1px 0 black, 0 1px black, 3px 0 black, 0 -1px black;
+  color: cyan;
+}
+.cambioA {
+  text-shadow: -1px 0 black, 0 3px black, 1px 0 black, 0 -1px black;
+  color: yellow;
+}
+.cambioMM {
+  text-shadow: -1px 0 black, 0 5px black, 1px 0 black, 0 -1px black;
+  color: yellow;
+}

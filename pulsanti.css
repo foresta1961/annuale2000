@@ -14,14 +14,21 @@
 }
 .bottoneM {
   margin-bottom: 90px;
-  background-color: green;
+  background-color: cyan;
   padding: 5px 10px;
   border-radius: 10px;
-  color: aliceblue;
+  color: black;
 }
 .bottoneA {
   margin-bottom: 90px;
-  background-color: rgb(188, 188, 50);
+  background-color: blue;
+  padding: 5px 10px;
+  border-radius: 10px;
+  color: whitesmoke;
+}
+.bottoneMM {
+  margin-bottom: 90px;
+  background-color: greenyellow;
   padding: 5px 10px;
   border-radius: 10px;
   color: black;
