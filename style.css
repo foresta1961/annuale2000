@@ -2,13 +2,14 @@
   margin: 0;
 }
 .intro {
+  overflow-y: clip;
   float: left;
   width: 360px;
   height: 740px;
   background-color: azure;
 }
 .febbraio {
-  overflow-y: hidden;
+  overflow-y: clip;
   float: left;
   width: 360px;
   height: 700px;
@@ -25,6 +26,7 @@
 }
 
 .marzo {
+  overflow-y: clip;
   float: left;
   width: 360px;
   height: 700px;
@@ -41,6 +43,7 @@
  
 }
 .aprile {
+  overflow-y: clip;
   float: left;
   width: 360px;
   height: 700px;
@@ -56,6 +59,7 @@
   text-shadow: -1px 0 black, 0 4px black, 1px 0 black, 0 -1px black;
 }
 .maggio{
+  overflow-y: clip;
     float: left;
     width: 360px;
     height: 700px;
