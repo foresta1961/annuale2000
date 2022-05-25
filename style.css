@@ -5,26 +5,18 @@
   overflow-y: hidden;
 }*/
 .intro {
- 
   float: left;
   width: 360px;
   height: 740px;
   background-color: azure;
 }
-.fe{
-  padding-top: 30px;
-}
-.mar{
-  padding-top: 30px;
-}
-.apr{
-  padding-top: 30px;
-}
-.mag{
+.fe,
+.mar,
+.apr,
+.mag {
   padding-top: 30px;
 }
 .febbraio {
-  
   float: left;
   width: 360px;
   height: 700px;
@@ -41,7 +33,6 @@
 }
 
 .marzo {
-  
   float: left;
   width: 360px;
   height: 700px;
@@ -55,10 +46,8 @@
   font-size: 4em;
   color: cyan;
   text-shadow: 0 5px black;
- 
 }
 .aprile {
-  
   float: left;
   width: 360px;
   height: 700px;
@@ -73,20 +62,18 @@
   color: blue;
   text-shadow: 0 5px black;
 }
-.maggio{
-  
-    float: left;
-    width: 360px;
-    height: 700px;
-    background-image: url("immagini/ciliege.jpg");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    padding-top: 40px;
-    text-align: center;
-    font-family: "Times New Roman", Times, serif;
-    font-size: 4em;
-    color: yellow;
-    text-shadow: 0 5px black;
-  }
-
+.maggio {
+  float: left;
+  width: 360px;
+  height: 700px;
+  background-image: url("immagini/ciliege.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 40px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 4em;
+  color: yellow;
+  text-shadow: 0 5px black;
+}
