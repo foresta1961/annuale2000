@@ -1,15 +1,27 @@
 * {
   margin: 0;
 }
-body,html{
+/*body,html{
   overflow-y: hidden;
-}
+}*/
 .intro {
  
   float: left;
   width: 360px;
   height: 740px;
   background-color: azure;
+}
+.fe{
+  padding-top: 30px;
+}
+.mar{
+  padding-top: 30px;
+}
+.apr{
+  padding-top: 30px;
+}
+.mag{
+  padding-top: 30px;
 }
 .febbraio {
   
