@@ -1,15 +1,21 @@
 * {
   margin: 0;
 }
-body,
+/*body,
 html {
   overflow-y: hidden;
-}
+}*/
 .intro {
   float: left;
   width: 360px;
   height: 740px;
   background-color: azure;
+}
+.feb,
+.mar,
+.apr,
+.mag {
+  padding-top: 50px;
 }
 .febbraio {
   float: left;
