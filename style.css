@@ -11,12 +11,6 @@ html {
   height: 740px;
   background-color: azure;
 }
-/*.fe,
-.mar,
-.apr,
-.mag {
-  padding-top: 60px;
-}*/
 .febbraio {
   float: left;
   width: 360px;
@@ -25,7 +19,7 @@ html {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  padding-top: 110px;
+  padding-top: 40px;
   text-align: center;
   font-family: "Times New Roman", Times, serif;
   font-size: 4em;
@@ -41,7 +35,7 @@ html {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  padding-top: 110px;
+  padding-top: 40px;
   text-align: center;
   font-family: "Times New Roman", Times, serif;
   font-size: 4em;
@@ -52,11 +46,11 @@ html {
   float: left;
   width: 360px;
   height: 700px;
-  background-image: url("immagini/primavera1.jpg");
+  background-image: url("immagini/aprile2.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  padding-top: 110px;
+  padding-top: 40px;
   text-align: center;
   font-family: "Times New Roman", Times, serif;
   font-size: 4em;
@@ -71,7 +65,7 @@ html {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  padding-top: 110px;
+  padding-top: 40px;
   text-align: center;
   font-family: "Times New Roman", Times, serif;
   font-size: 4em;
