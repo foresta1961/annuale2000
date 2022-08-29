@@ -16,7 +16,8 @@ html {
 .apr,
 .mag,
 .giu,
-.lug {
+.lug,
+.ago {
   padding-top: 50px;
 }
 .febbraio {
@@ -109,4 +110,19 @@ html {
   font-size: 4em;
   color: white;
   text-shadow: 0 8px black;
+}
+.agosto {
+  float: left;
+  width: 360px;
+  height: 700px;
+  background-image: url("immagini/stellato6.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 40px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 4em;
+  color: yellow;
+  text-shadow: 0 10px black;
 }
