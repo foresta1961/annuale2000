@@ -17,7 +17,8 @@ html {
 .mag,
 .giu,
 .lug,
-.ago {
+.ago,
+.set {
   padding-top: 50px;
 }
 .febbraio {
@@ -124,5 +125,20 @@ html {
   font-family: "Times New Roman", Times, serif;
   font-size: 4em;
   color: yellow;
+  text-shadow: 0 10px black;
+}
+.settembre {
+  float: left;
+  width: 360px;
+  height: 700px;
+  background-image: url("immagini/scogli.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 40px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 3.5em;
+  color: red;
   text-shadow: 0 10px black;
 }
