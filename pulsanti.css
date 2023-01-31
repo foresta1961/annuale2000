@@ -1,8 +1,8 @@
 .bottoneI {
   margin-bottom: 90px;
-  background-color: #1e90ff;
-  padding: 5px 10px;
-  border-radius: 10px;
+  background-color: rgb(205, 228, 158);
+  padding: 2px 10px;
+  border-radius: 0px;
   color: black;
 }
 .bottoneF {
@@ -82,4 +82,10 @@
   border-radius: 10px;
   color: beige;
 }
-
+.bottoneGG {
+  margin-bottom: 90px;
+  background-color: black;
+  padding: 5px 10px;
+  border-radius: 10px;
+  color: beige;
+}
