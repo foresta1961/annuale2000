@@ -1,3 +1,10 @@
+.bottoneGG {
+  margin-bottom: 90px;
+  background-color: black;
+  padding: 5px 10px;
+  border-radius: 10px;
+  color: beige;
+}
 .bottoneI {
   margin-bottom: 90px;
   background-color: rgb(205, 228, 158);
@@ -78,13 +85,6 @@
 .bottoneDIC {
   margin-bottom: 90px;
   background-color: red;
-  padding: 5px 10px;
-  border-radius: 10px;
-  color: beige;
-}
-.bottoneGG {
-  margin-bottom: 90px;
-  background-color: black;
   padding: 5px 10px;
   border-radius: 10px;
   color: beige;
