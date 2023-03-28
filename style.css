@@ -27,54 +27,6 @@ html {
     background-color: azure;
   }
 }
-/*visualizzazione da tablet*/
-@media (max-width: 980px) {
-  * {
-    margin: 0;
-  }
-  body,
-  html {
-    overflow-y: hidden;
-  }
-  .intro {
-    float: left;
-    width: 360px;
-    height: 740px;
-    background-color: azure;
-  }
-}
-/*visualizzazione da mobile orizzontale*/
-@media (max-width: 767px) {
-  * {
-    margin: 0;
-  }
-  body,
-  html {
-    overflow-y: hidden;
-  }
-  .intro {
-    float: left;
-    width: 360px;
-    height: 740px;
-    background-color: azure;
-  }
-}
-/*visualizzazione da mobile verticale*/
-@media (max-width: 480px) {
-  * {
-    margin: 0;
-  }
-  body,
-  html {
-    overflow-y: hidden;
-  }
-  .intro {
-    float: left;
-    width: 360px;
-    height: 740px;
-    background-color: azure;
-  }
-}
 
 .gen,
 .feb,
