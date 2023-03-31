@@ -13,24 +13,24 @@ html {
 }
 /*visualizzazione da mobile*/
 @media screen and (max-width: 768px) {
-  * {
-      margin: 0;
-    }
-    body,
-    html {
-      overflow-y: hidden;
-    }
-    .intro {
-      float: left;
-      width: 360px;
-      height: 740px;
-      background-color: azure;
-    }
+   {
+    margin: 0;
+  }
+  body,
+  html {
+    overflow-y: hidden;
+  }
+  .intro {
+    float: left;
+    width: 360px;
+    height: 740px;
+    background-color: azure;
+  }
 }
 
 /*visualizzazione da lap top*/
 @media (max-width: 1200px) {
-  * {
+   {
     margin: 0;
   }
   body,
